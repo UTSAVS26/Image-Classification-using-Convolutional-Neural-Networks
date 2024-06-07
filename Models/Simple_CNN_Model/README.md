@@ -76,7 +76,8 @@ The simple CNN model implemented in the notebook has the following structure:
 ### CIFAR-10
 - **Accuracy**: Achieved accuracy on the CIFAR-10 test set - `0.6947000000`
 - **Precision**: Achieved precision on the CIFAR-10 test set - `0.6939820196`
-- **Classification Report**: Detailed classification report for CIFAR-10 - 
+- **Classification Report**: Detailed classification report for CIFAR-10 -
+
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|-----------|--------|----------|---------|
 | Airplane   | 0.71      | 0.74   | 0.73     | 1000    |
@@ -97,6 +98,7 @@ The simple CNN model implemented in the notebook has the following structure:
 - **Accuracy**: Achieved accuracy on the MNIST test set - `0.9929000000`
 - **Precision**: Achieved precision on the MNIST test set - `0.9929076933`
 - **Classification Report**: Detailed classification report for MNIST.
+
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|-----------|--------|----------|---------|
 | 0          | 1.00      | 0.99   | 1.00     | 980     |
@@ -118,10 +120,12 @@ The simple CNN model implemented in the notebook has the following structure:
 ### CIFAR-10
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/1ebccedd-5c50-4380-835b-1c67b4b48734)
 
 ### MNIST
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/d73edcf5-d190-4346-b120-437e5de90800)
 
 ## 🎉 Conclusion
 
