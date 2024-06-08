@@ -151,7 +151,7 @@ def create_vgg16_mnist(input_shape, num_classes):
 | **Macro Avg** | 0.75    | 0.72   | 0.72     | 10000   |
 | **Weighted Avg** | 0.75 | 0.72   | 0.72     | 10000   |
 
-### MNIST=
+### MNIST
 - **Accuracy**: Achieved accuracy on the MNIST test set - `0.9919000000`
 - **Precision**: Achieved precision on the MNIST test set - `0.9919247329`
 - **Classification Report**: Detailed classification report for MNIST.
@@ -177,10 +177,12 @@ def create_vgg16_mnist(input_shape, num_classes):
 ### CIFAR-10
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/2ee3f078-71bb-45fd-af86-73e60820278f)
 
 ### MNIST
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/eac4a5cf-afca-4e57-aa4f-fe9c8ff00bc5)
 
 ## 🎉 Conclusion
 This notebook demonstrates the implementation of a VGG-16 model for image classification on the CIFAR-10 and MNIST datasets. The models achieve good accuracy and precision, showcasing the effectiveness of CNNs for image classification tasks.
