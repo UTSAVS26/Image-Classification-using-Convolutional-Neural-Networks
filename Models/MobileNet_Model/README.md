@@ -1,4 +1,4 @@
-# 📱 MobileNet Model for Image Classification
+MobileNet Model for Image Classification
 
 ## 📝 Overview
 This project implements a MobileNet Convolutional Neural Network (CNN) for image classification using the CIFAR-10 and MNIST datasets. The notebook `MobileNet_model.ipynb` contains the entire workflow from data loading and preprocessing to model training, evaluation, and visualization.
@@ -137,10 +137,14 @@ def create_mobilenet_mnist(input_shape, num_classes):
 ### CIFAR-10
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/94c43184-43ee-4c05-b99e-6809103857ec)
+
 
 ### MNIST
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/6655a5d9-313e-4bab-a624-0ed1ca07a001)
+
 
 ## 🎉 Conclusion
 This notebook demonstrates the implementation of a MobileNet model for image classification on the CIFAR-10 and MNIST datasets. The models achieve good accuracy and precision, showcasing the effectiveness of deep learning architectures like MobileNet for image classification tasks.
