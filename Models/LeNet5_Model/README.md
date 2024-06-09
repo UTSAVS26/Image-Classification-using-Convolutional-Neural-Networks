@@ -127,10 +127,12 @@ def create_lenet5(input_shape, num_classes):
 ### CIFAR-10
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+- ![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/0850e3db-cfe2-43ea-9fa2-fbdee733e612)
 
 ### MNIST
 - **Training and Validation Accuracy**: Line plot of training and validation accuracy per epoch.
 - **Training and Validation Loss**: Line plot of training and validation loss per epoch.
+![image](https://github.com/UTSAVS26/Image-Classification-using-Convolutional-Neural-Networks/assets/119779889/cb3c8a92-f909-4cdc-8209-280dca76a7de)
 
 ## 🎉 Conclusion
 This notebook demonstrates the implementation of a LeNet-5 model for image classification on the CIFAR-10 and MNIST datasets. The models achieve high accuracy and precision, indicating the effectiveness of LeNet-5 for image classification tasks.
