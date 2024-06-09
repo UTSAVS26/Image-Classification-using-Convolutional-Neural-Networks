@@ -1,4 +1,4 @@
-MobileNet Model for Image Classification
+# 📱 MobileNet Model for Image Classification
 
 ## 📝 Overview
 This project implements a MobileNet Convolutional Neural Network (CNN) for image classification using the CIFAR-10 and MNIST datasets. The notebook `MobileNet_model.ipynb` contains the entire workflow from data loading and preprocessing to model training, evaluation, and visualization.
