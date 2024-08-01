@@ -47,18 +47,6 @@ This project involves the implementation of different CNN models to classify ima
 - Matplotlib
 - scikit-learn
 
-### 📊 **Exploratory Data Analysis Results**
-
-- **CIFAR-10**
-
-![image](https://github.com/UTSAVS26/DL-Simplified/assets/119779889/755c3d35-eacb-4db2-90f8-530cc757ec5c)
-![image](https://github.com/UTSAVS26/DL-Simplified/assets/119779889/4a2d9410-13e1-4e1c-b367-824c0a586ee8)
-
-- **MNIST**
-
-![image](https://github.com/UTSAVS26/DL-Simplified/assets/119779889/63d4cf7a-a8b2-40b2-8b7d-d4715d8c0b4b)
-![image](https://github.com/UTSAVS26/DL-Simplified/assets/119779889/3f07aba6-6430-42ba-aa99-fd8acf318249)
-
 ### 📈 **Performance of the Models based on the Accuracy Scores**
 
 - **LeNet5_Model:** 
